@@ -1,0 +1,6 @@
+data/raw/
+data/calcium_xml/
+outputs/preprocessed/
+__pycache__/
+*.npy
+.ipynb_checkpoints/

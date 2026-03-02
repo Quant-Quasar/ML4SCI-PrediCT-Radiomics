@@ -1,0 +1,30 @@
+imageType:
+  Original: {}
+
+featureClass:
+  shape:
+    - Sphericity
+    - SurfaceVolumeRatio
+    - Maximum3DDiameter
+  glcm:
+    - Contrast
+    - Correlation
+    - Idm
+  glszm:
+    - SmallAreaEmphasis
+    - LargeAreaEmphasis
+    - ZonePercentage
+  glrlm:
+    - ShortRunEmphasis
+    - LongRunEmphasis
+    - RunPercentage
+
+setting:
+  minimumROIDimensions: 1
+  minimumROISize: 1
+  correctMask: true
+  geometryTolerance: 1.0e-4
+  binWidth: 25
+  resampledPixelSpacing: [1.0, 1.0, 1.0]
+  interpolator: sitkBSpline
+  label: 1

@@ -1,0 +1,22 @@
+# Install PyRadiomics separately via conda BEFORE running pip install -r requirements.txt:
+# conda install -c radiomics -c conda-forge pyradiomics -y
+
+numpy==1.24.4
+pandas==1.5.3
+SimpleITK==2.2.1
+pydicom==2.4.4
+opencv-python==4.8.1.78
+scikit-learn==1.3.2
+scipy==1.10.1
+matplotlib==3.7.3
+seaborn==0.13.0
+statsmodels==0.14.1
+torch==2.0.1
+monai==1.2.0
+ipykernel==6.29.5
+umap-learn==0.5.5
+pyyaml==6.0.1
+pykwalify==1.8.0
+jupyterlab==3.6.7
+tqdm==4.66.1
+nibabel==5.1.0
