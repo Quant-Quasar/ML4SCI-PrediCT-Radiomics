@@ -1,6 +1,6 @@
-# ML4SCI / CERN PrediCT — Cardiac CT Radiomics Pipeline
+# ML4SCI CERN PrediCT | Cardiac CT Radiomics Pipeline
 **Evaluation Test Submission**  
-
+**Author:** Aditya Parashar
 
 ---
 
