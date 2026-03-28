@@ -112,6 +112,8 @@ jupyter lab
 
 ## AI Assistance Disclosure
 
-AI assistance was used for code formatting,scaffolding documentation, 
-and robustness improvements. All scientific decisions, result validation, and 
-biological interpretation were performed by the author.
+AI tools were used for code review, documentation formatting, and literature 
+citation verification. All experiments, model architectures, training runs, 
+and results are the author's own original work.
+
+---
